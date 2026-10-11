@@ -1,16 +1,32 @@
 {
   "project_name": "SuperContent 品牌触客方案",
-  "current_version": "v1.3.0",
+  "current_version": "v1.4.0",
   "versions": [
-    "v1.3.0"
+    "v1.3.0",
+    "v1.4.0"
   ],
   "created_at": "2026-10-11",
   "updated_at": "2026-10-11",
   "workflow": "agile-product-factory",
   "pages": 18,
   "date": "2026-10-11",
-  "delivery_status": "local_browser_passed_publish_pending",
+  "delivery_status": "source_reviewed_browser_verified_release_candidate",
   "public_url": "https://welay21312312321.github.io/tezign-bp-motion-deck/",
   "physical_phone_verified": false,
-  "specific_vehicle_brand_verified": false
+  "specific_vehicle_brand_verified": false,
+  "content_iteration": "v1.4.0",
+  "runtime_version": "v1.3.0",
+  "source_reviewed": true,
+  "normal_speed_full_audiovisual_reviewed": false,
+  "mobile_viewport_verified": true,
+  "browser_verified": true,
+  "baseline_assets_preserved": true,
+  "local_browser_checks": {
+    "passed": 577,
+    "total": 577
+  },
+  "content_checks": {
+    "passed": 61,
+    "total": 61
+  }
 }
